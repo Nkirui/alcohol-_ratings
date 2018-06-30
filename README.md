@@ -1,12 +1,12 @@
-# Alcohol-_rating Analysis
+# Alcohol_rating Analysis
 
 ## Description
 This is a web application for analyzing wine ratings,It uses python,django,pandas + scikit-learn and django bootstrap4.
 
 ## Implimentation
 
-* git clone git@github.com:Nkirui/alcohol-_ratings.git
-* cd alcohol-_ratings
+* git clone git@github.com:Nkirui/alcohol_ratings.git
+* cd alcohol_ratings
 
 ####  Ensure you have installed virtualenv **then** 
 
